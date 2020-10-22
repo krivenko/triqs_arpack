@@ -1,6 +1,8 @@
 triqs_arpack
 ============
 
+**Warning: This project is now fully superseded by [ezARPACK](https://github.com/krivenko/ezARPACK).**
+
 C++ interface between ARPACK [1] and TRIQS arrays library [2].
 
 Copyright (C) 2016-2017 by I. Krivenko
